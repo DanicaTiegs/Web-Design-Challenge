@@ -1,0 +1,34 @@
+.visualization_box-set {
+    position: relative;
+    height: 400px;
+    background: rgb(230, 225, 225);
+  }
+  
+  .box {
+    /* relative positioning */
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background: #adc2e2;
+    border: 2px solid black;
+  }
+  
+  .fig-1 {
+    top: 20px;
+  }
+  
+  .fig-2 {
+    left: 40px;
+  }
+  
+  .fig-3 {
+    right: 20px;
+    bottom: -10px;
+  }
+
+  .fig-4 {
+    right: 40px;
+    bottom: -20px;
+  }
+
+  
